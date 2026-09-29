@@ -1,0 +1,1 @@
+# Phrases you mark as already known. One phrase per line.

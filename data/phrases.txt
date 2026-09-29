@@ -1,0 +1,184 @@
+# priority, tab, phrase, optional tab, flags
+# one's matches my/your/his/her/its/our/their. someone matches me/you/him/her/us/them/someone/somebody.
+# flag "end" means the phrase must end the caption line.
+5	look forward to
+5	the thing is
+5	the point is
+5	when it comes to
+5	on the other hand
+5	on the one hand
+5	as a matter of fact
+5	in other words
+5	at the end of the day
+5	in the long run
+5	it turns out
+5	as it turns out
+5	for what it's worth
+5	believe it or not
+5	to be honest
+5	that being said
+5	having said that
+5	to begin with
+5	in the first place
+5	on top of that
+5	as far as i know
+5	as far as i'm concerned
+5	on second thought
+5	in a nutshell
+5	fair enough
+5	if i were you
+5	on the fence
+5	sit on the fence
+5	the ball is in one's court
+5	the elephant in the room
+5	the tip of the iceberg
+5	the last straw
+5	a blessing in disguise
+5	beat around the bush
+5	bite the bullet
+5	break the ice
+5	call it a day
+5	cut to the chase
+5	easier said than done
+5	get the hang of
+5	get out of hand
+5	hit the nail on the head
+5	once in a blue moon
+5	out of the blue
+5	read between the lines
+5	see eye to eye
+5	speak of the devil
+5	take it with a grain of salt
+5	under the weather
+5	cost an arm and a leg
+5	burn the midnight oil
+5	by the book
+5	call the shots
+5	come to terms with
+5	it goes without saying
+5	keep an eye on
+5	last but not least
+5	make a long story short
+5	no pain no gain
+5	not one's cup of tea
+5	pull yourself together
+5	you can say that again
+5	time flies
+5	when pigs fly
+5	once and for all
+5	for the time being
+5	in the meantime
+5	pros and cons
+5	odds and ends
+5	wrap one's head around
+5	make up one's mind
+5	keep one's fingers crossed
+5	let someone down
+5	take it for granted
+5	in the wake of
+5	at stake
+5	for good	end
+4	come up with
+4	put up with
+4	run out of
+4	get rid of
+4	look up to
+4	look down on
+4	catch up with
+4	figure out
+4	point out
+4	carry out
+4	make up for
+4	take advantage of
+4	keep up with
+4	get away with
+4	live up to
+4	come down to
+4	boil down to
+4	rule out
+4	account for
+4	result in
+4	cope with
+4	in terms of
+4	in spite of
+4	in favor of
+4	in charge of
+4	on behalf of
+4	as opposed to
+4	regardless of
+4	a great deal of
+4	a wide range of
+4	play a role in
+4	take part in
+4	pay attention to
+4	lose track of
+4	keep in mind
+4	bear in mind
+4	end up with
+4	cut down on
+4	zero in on
+4	fall behind
+4	get used to
+4	get back to
+4	look out for
+4	run into
+4	come across
+4	get along
+4	drop out
+4	fall apart
+4	do without
+4	count on
+4	stick to
+4	stand out
+4	bring about
+4	put together
+4	set aside
+4	the other way around
+4	every now and then
+4	make sense
+4	make a difference
+4	from scratch
+4	with respect to
+3	end up
+3	turn out
+3	pick up
+3	give up
+3	show up
+3	work out
+3	break down
+3	take off
+3	take on
+3	take up
+3	set up
+3	set out
+3	find out
+3	bring up
+3	turn down
+3	call off
+3	put off
+3	hold on
+3	go through
+3	get over
+3	look after
+3	look into
+3	deal with
+3	rely on
+3	focus on
+3	refer to
+3	consist of
+3	lead to
+3	contribute to
+3	carry on
+3	check out
+3	hang out
+3	settle down
+3	take place
+3	wind up
+3	by all means
+3	by no means
+3	no matter what
+3	more or less
+3	once in a while
+3	now and then
+3	in addition to
+3	apart from

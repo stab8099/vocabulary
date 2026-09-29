@@ -1,0 +1,5 @@
+# Subtitles, lemmatization, and word frequency.
+# Speech-to-text for videos without subtitles is separate: requirements-asr.txt
+pysubs2>=1.6.1
+simplemma>=0.9.1
+wordfreq>=3.0.2

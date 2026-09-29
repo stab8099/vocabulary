@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.mp4
+*.m4v
+*.mkv
+*.mov
+*.webm
+*.avi
+models/
+data/transcripts/
+data/candidates/
+data/marks/
